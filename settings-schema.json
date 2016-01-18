@@ -1,0 +1,18 @@
+{
+	"alarms" : {
+		"type" : "generic",
+        "default" : []
+	},
+	
+	"alarmSound" : {
+		"type" : "filechooser",
+		"description" : "Alarm sound",
+		"default" : ""
+	},
+	
+	"timerSound" : {
+		"type" : "filechooser",
+		"description" : "Timer sound",
+		"default" : ""
+	}
+}

@@ -1,0 +1,96 @@
+.timepiece-displayBox {
+    background: #cdcdcd;
+    border: solid 1px black;
+    height: 150px;
+    width: 250px;
+    padding: 10px;
+}
+
+.timepiece-displayBox-title {
+    font-size: 24px;
+}
+
+.timepiece-displayBox-button {
+    padding: 5px;
+}
+
+.timepiece-timeLabel-number {
+    font-size: 48px;
+}
+
+.timepiece-timeLabel-divLabel {
+    font-size: 20px;
+    padding-right: 4px;
+}
+
+.timepiece-clock {
+    background: #cdcdcd;
+    border: solid 1px black;
+    padding: 5px;
+    height: 300px;
+    width: 300px;
+    -circle-radius: 120px;
+    -circle-width: 1px;
+    -circle-color: rgba(0,0,0,1);
+    -arm-length: 100px;
+    -arm-width: 3px;
+    -arm-color: rgba(0,0,0,1);
+    -number-distance: 15px;
+    color: black;
+    font: 14px arial, sans-serif;
+}
+
+.spinButton-box {
+    padding: 5px;
+}
+
+.spinButton-buttonUp {
+    background-gradient-direction: vertical;
+    background-gradient-start: #dddddd;
+    background-gradient-end: #aaaaaa;
+    border: 1px solid #000000;
+    border-radius: 4px 4px 0px 0px;
+    color: #000000;
+    padding: 2px;
+}
+
+.spinButton-buttonUp:hover {
+    background-gradient-start: #eeeeee;
+    background-gradient-end: #bbbbbb;
+}
+
+.spinButton-buttonUp:active {
+    background-gradient-direction: vertical;
+    background-gradient-start: #ffffff;
+    background-gradient-end: #cccccc;
+}
+
+.spinButton-buttonDown {
+    background-gradient-direction: vertical;
+    background-gradient-start: #dddddd;
+    background-gradient-end: #aaaaaa;
+    border: 1px solid #000000;
+    border-radius: 0px 0px 4px 4px;
+    color: #000000;
+    padding: 2px;
+}
+
+.spinButton-buttonDown:hover {
+    background-gradient-start: #eeeeee;
+    background-gradient-end: #bbbbbb;
+}
+
+.spinButton-buttonDown:active {
+    background-gradient-direction: vertical;
+    background-gradient-start: #ffffff;
+    background-gradient-end: #cccccc;
+}
+
+.spinButton-display {
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-bottom: none;
+    border-top: none;
+    color: #000000;
+    padding: 4px 10px;
+}

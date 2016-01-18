@@ -1,0 +1,9 @@
+{
+    "name": "Timepiece",
+    "uuid": "timepiece@scollins",
+    "description": "Stopwatch, timer and alarm clock",
+    "comments": "This applet provides all of your time-tracking needs, including creating and managing alarms, setting timers, and using a stopwatch. Feel free to contribute by submitting pull requests, bug reports and feature requests to my github repo.",
+    "website": "https://github.com/collinss/Cinnamon-Timepiece",
+    "version": "0.9",
+    "contributors": "Stephen Collins - Author"
+}
